@@ -1,0 +1,15 @@
+{
+  "name": "milebot",
+  "version": "1.0.0",
+  "description": "Chat mile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "milena cabrera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
